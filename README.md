@@ -4,4 +4,4 @@ This project compiles the code written in the frame of my Master Thesis entitled
 
 Author: Arnaud Schuele
 
-![name-of-you-image](https://your-copied-image-address)
+![cls_pmfg_label](https://github.com/arnaud-schuele/complex-networks-approaches-for-portfolio-optimization/blob/main/cls_pmfg_label.png?raw=true)
