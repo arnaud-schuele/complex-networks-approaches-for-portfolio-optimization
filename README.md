@@ -4,3 +4,4 @@ This project compiles the code written in the frame of my Master Thesis entitled
 
 Author: Arnaud Schuele
 
+![name-of-you-image](https://your-copied-image-address)
