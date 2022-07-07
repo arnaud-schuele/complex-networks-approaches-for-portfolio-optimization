@@ -5,4 +5,3 @@
 **Figure**: Planar Maximally Filtered Graph (PMFG) of some constitutents of the S&P500, where nodes represent assets and links express correlation-based distances between the nodes.
 
 **Author**: Arnaud Schuele\
-**Email**: arnaud.schuele@gmail.com
