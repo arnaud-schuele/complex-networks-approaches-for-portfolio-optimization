@@ -4,5 +4,5 @@
 ![cls_pmfg_label](https://github.com/arnaud-schuele/complex-networks-approaches-for-portfolio-optimization/blob/main/cls_pmfg_label.png?raw=true)\
 **Figure**: Planar Maximally Filtered Graph (PMFG) of some constitutents of the S&P500, where nodes represent assets and links express correlation-based distances between the nodes.
 
-**Author**: Arnaud Schuele
+**Author**: Arnaud Schuele\
 **Email**: arnaud.schuele@gmail.com
